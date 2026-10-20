@@ -1,0 +1,1 @@
+# BRI_assets_model
