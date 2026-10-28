@@ -14,8 +14,8 @@ https://bri.co.id/web/guest/report-detail
 - R
 - minpack.lm
 - ggplot2
-- dplyr
-- tidyr
+- stats
+- patchwork
 
 ## Running the Code Execute the main R script to reproduce all analyses and figures. 
 
