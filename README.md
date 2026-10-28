@@ -20,7 +20,7 @@ https://bri.co.id/web/guest/report-detail
 ## Running the Code Execute the main R script to reproduce all analyses and figures. 
 
 ## Author
-Dhidhi Pambudi
-Vernanda Kisty Faradilla
-Sachiko Nakano
+Dhidhi Pambudi,
+Vernanda Kisty Faradilla,
+Sachiko Nakano,
 Aivin B. Balquedra
