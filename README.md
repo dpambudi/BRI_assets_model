@@ -1,13 +1,23 @@
 # BRI_assets_model
-R code for analyzing the growth trajectory of Bank Rakyat Indonesia (BRI) assets using nonlinear growth models. 
+R code and supporting data for evaluating bounded and unbounded growth models using the long-term asset trajectory of PT Bank Rakyat Indonesia (Persero) Tbk.
 
-Models examined: 
+Models examined:
+- Linear
+- Quadratic
 - Exponential
 - Verhulst Logistic
 - Gompertz
 - Richards
 
-The repository includes model estimation, forecasting evaluation, information-criterion comparison, and saturation analysis based on quarterly asset data (2013Q1–2026Q1). 
+The repository includes:
+- Expanding-window out-of-sample validation\
+- Full-sample model calibration
+- Information-theoretic model comparison (AIC, BIC, ΔAIC, Akaike weights)
+- Recursive parameter-stability analysis
+- Residual diagnostics
+- Figure and table generation
+
+The empirical data consist of quarterly consolidated assets (IDR million) covering 2013Q1–2026Q1 and were compiled from publicly available financial reports released by PT Bank Rakyat Indonesia (Persero) Tbk.:
 https://bri.co.id/web/guest/report-detail
 
 ## Requirements 
